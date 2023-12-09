@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.c235764c.css",
-    "main.js": "/static/js/main.f92cf6d0.js",
+    "main.css": "/static/css/main.4cdc45fa.css",
+    "main.js": "/static/js/main.40234a51.js",
     "static/js/787.85c880a2.chunk.js": "/static/js/787.85c880a2.chunk.js",
+    "static/media/TripWiz.png": "/static/media/TripWiz.f8fd892115247f13e5bc.png",
+    "static/media/Travello.png": "/static/media/Travello.3853b3e41d1b6374d73b.png",
+    "static/media/MediPulse.png": "/static/media/MediPulse.8c53409152f65f274ef9.png",
     "static/media/Mohd-Aamil-Image.jpeg": "/static/media/Mohd-Aamil-Image.890582b39820bed19225.jpeg",
     "static/media/react.png": "/static/media/react.c7d01edadaa8194c5a58.png",
     "static/media/H.png": "/static/media/H.38b6aba0c877e2ed3712.png",
@@ -14,6 +17,7 @@
     "static/media/re.png": "/static/media/re.abbc088d4202fb1d8126.png",
     "static/media/ex.png": "/static/media/ex.bc09cc087fd703235b04.png",
     "static/media/mongoose.png": "/static/media/mongoose.715804998a5b8393e939.png",
+    "static/media/Github (2).png": "/static/media/Github (2).eab6b902c6a4182b4d45.png",
     "static/media/at.png": "/static/media/at.6b2e7170d0b87534f9d7.png",
     "static/media/outfit-latin-400-normal.woff": "/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
     "static/media/4.png": "/static/media/4.949717ad23aebc27e463.png",
@@ -26,6 +30,7 @@
     "static/media/roboto-cyrillic-ext-400-normal.woff": "/static/media/roboto-cyrillic-ext-400-normal.af4d91666ea345601bea.woff",
     "static/media/ts.png": "/static/media/ts.06d10e8bcbf053649102.png",
     "static/media/roboto-latin-ext-400-normal.woff2": "/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
+    "static/media/email.png": "/static/media/email.07625728add43bbb7f12.png",
     "static/media/2.png": "/static/media/2.1fa18d584dbbf9194743.png",
     "static/media/roboto-latin-ext-400-normal.woff": "/static/media/roboto-latin-ext-400-normal.e757c42df6aaa3e11b62.woff",
     "static/media/roboto-cyrillic-400-normal.woff2": "/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
@@ -39,12 +44,12 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/index.html",
-    "main.c235764c.css.map": "/static/css/main.c235764c.css.map",
-    "main.f92cf6d0.js.map": "/static/js/main.f92cf6d0.js.map",
+    "main.4cdc45fa.css.map": "/static/css/main.4cdc45fa.css.map",
+    "main.40234a51.js.map": "/static/js/main.40234a51.js.map",
     "787.85c880a2.chunk.js.map": "/static/js/787.85c880a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c235764c.css",
-    "static/js/main.f92cf6d0.js"
+    "static/css/main.4cdc45fa.css",
+    "static/js/main.40234a51.js"
   ]
 }
