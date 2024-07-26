@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a1614e6.css",
-    "main.js": "/static/js/main.b9e906ea.js",
+    "main.css": "/static/css/main.caf770fe.css",
+    "main.js": "/static/js/main.5c2f9320.js",
     "static/js/787.85c880a2.chunk.js": "/static/js/787.85c880a2.chunk.js",
     "static/media/TripWiz.png": "/static/media/TripWiz.f8fd892115247f13e5bc.png",
     "static/media/Travello.png": "/static/media/Travello.3853b3e41d1b6374d73b.png",
+    "static/media/VolNow.png": "/static/media/VolNow.9a57d1926ee829efc3b5.png",
     "static/media/MediPulse.png": "/static/media/MediPulse.8c53409152f65f274ef9.png",
     "static/media/Mohd-Aamil-Resume.pdf": "/static/media/Mohd-Aamil-Resume.14d619835f80cbf89242.pdf",
     "static/media/Mohd-Aamil-Image.jpeg": "/static/media/Mohd-Aamil-Image.890582b39820bed19225.jpeg",
@@ -45,12 +46,12 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/index.html",
-    "main.5a1614e6.css.map": "/static/css/main.5a1614e6.css.map",
-    "main.b9e906ea.js.map": "/static/js/main.b9e906ea.js.map",
+    "main.caf770fe.css.map": "/static/css/main.caf770fe.css.map",
+    "main.5c2f9320.js.map": "/static/js/main.5c2f9320.js.map",
     "787.85c880a2.chunk.js.map": "/static/js/787.85c880a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a1614e6.css",
-    "static/js/main.b9e906ea.js"
+    "static/css/main.caf770fe.css",
+    "static/js/main.5c2f9320.js"
   ]
 }
