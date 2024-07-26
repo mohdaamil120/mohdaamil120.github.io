@@ -1,0 +1,142 @@
+  @import "../../vars.css";
+
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 61px;
+  z-index: 2;
+  margin: 0 10%;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.title:hover{
+  color: rgb(98, 194, 226);
+}
+
+.menu {
+  display: flex;
+  left: 40%;
+}
+
+.menuItems {
+  display: flex;
+  gap: 47px;
+  list-style: none;
+}
+
+.menuItems a {
+  font-size: 25px;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.menuItems a:hover {
+  color: rgb(68, 189, 230);
+}
+
+ul li:hover {
+  color: lightblue;
+}
+
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar.fixed {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  position: fixed;
+  top: -60px;
+  width: 100%; 
+  left: -138px;
+  background-color: #04152d;
+  transition: background-color 0.3s ease;
+  z-index: 1000; 
+  height: 160px;
+  
+}
+
+.navbar.fixed .title,
+.navbar.fixed .menuItems a {
+  color: #fff; 
+}
+
+.navbar.fixed .menuItems a:hover {
+  color: #aaf; 
+}
+
+
+
+
+
+#resume-link-1{
+  padding-right: 50px;
+}
+
+@media screen and (max-width: 830px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menu {
+    position: absolute;
+    right: 0;
+    margin-right: 10%;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 11px;
+    z-index: 3;
+    display: flex; 
+   
+  }
+
+  .menuBtn {
+    display: block;
+    cursor: pointer;
+  }
+
+  .menuItems {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 13px;
+    border-radius: 10px;
+    background: rgb(25, 55, 109);
+    background: linear-gradient(
+      0deg,
+      rgba(25, 55, 109, 0.2) 0%,
+      rgba(25, 55, 109, 1) 100%
+    );
+    padding: 24px 33px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  }
+
+  .menuOpen {
+    display: flex;
+    z-index: 1;
+  }
+
+
+  .menu {
+    position: fixed;
+    top: 120px;
+    transition: background-color 0.3s ease;
+    z-index: 1000; 
+  }
+
+} 
+ 
+
+

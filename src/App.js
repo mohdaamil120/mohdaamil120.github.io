@@ -1,10 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import styles from "./App.module.css";
+import { About } from "./components/About/About";
+import { Contact } from "./components/Contact/Contact";
+import Github from "./components/Github/Github";
+import { Hero } from "./components/Hero/Hero";
+import { Navbar } from "./components/Navbar/Navbar";
+import { Projects } from "./components/Projects/Projects";
+import { Skills } from "./components/Skills/Skills";
 
 function App() {
   return (
-    <div className="App">
-      navbar
+    <div className={styles.App}>
+      <Navbar/>
+      <Hero/>
+      <About/>
+      <Skills/>
+      <Projects/>
+      <Github/>
+      <Contact/>
     </div>
   );
 }
