@@ -23,7 +23,7 @@ export const Projects = () => {
             <h3  className="project-title" style={{color:"lightblue"}}># Project 1</h3>
             <h1 className="project-title">Travello</h1>
             <p className="project-description">Travello is your ultimate travel companion, offering seamless login, signup, search, and filtering options. Discover dream destinations, connect with like-minded travelers, and share experiences in a vibrant community. Unleash your wanderlust and embark on unforgettable adventures with Travello.</p>
-            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"30px",margin:"10px 0px"}}>
+            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"10px",margin:"10px 0px", flexWrap:"wrap"}}>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>HTML</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>CSS</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>Javascript</p>
@@ -44,7 +44,7 @@ export const Projects = () => {
             <h3 className="project-title" style={{color:"lightblue"}}># Project 2</h3>
             <h1 className="project-title">MediPules Hospital</h1>
             <p className="project-description">MediPulse is a doctor consultation and appointment booking website. Experiencing the website we can book doctors in the different cities within the variety of different departments by using the filter and sorting. In this way, the website can be easily navigated according to our needs.</p>
-            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"30px",margin:"10px 0px"}}>
+            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"10px",margin:"10px 0px", flexWrap:"wrap"}}>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>HTML</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>CSS</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>Javascript</p>
@@ -74,7 +74,7 @@ export const Projects = () => {
             <h3 className="project-title" style={{color:"lightblue"}}># Project 3</h3>
             <h1 className="project-title">TripWiz</h1>
             <p className="project-description">About Welcome to Trip Wiz! Trip Wiz is your ultimate travel companion, designed to help you plan, organize, and make the most out of your trips. Whether you're a frequent globetrotter or just planning your next weekend getaway, Trip Wiz has got you covered.</p>
-            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"30px",margin:"10px 0px"}}>
+            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"10px",margin:"10px 0px", flexWrap:"wrap"}}>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>React</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>Redux</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>Javascript</p>
@@ -96,7 +96,7 @@ export const Projects = () => {
             <h3 className="project-title" style={{color:"lightblue"}}># Project 4</h3>
             <h1 className="project-title">Volunteer-Now</h1>
             <p className="project-description">VOLNOW invites you to join a community dedicated to making a positive impact through volunteering. Our meticulously crafted web application is designed with a seamless blend of HTML, CSS, JavaScript, and React, offering you a gateway to a world of opportunities for meaningful contributions. Explore the following sections and embark on your journey of making a difference.</p>
-            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"30px",margin:"10px 0px"}}>
+            <div className="project-tech-stack" id="stack" style={{display:"flex",gap:"10px",margin:"10px 0px", flexWrap:"wrap"}}>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>HTML</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>CSS</p>
                 <p style={{borderRadius:"5px",padding:"5px",backgroundColor:"#000000"}}>Javascript</p>
